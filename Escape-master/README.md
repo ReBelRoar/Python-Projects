@@ -1,2 +1,2 @@
 # Escape
-A small escape game 
+A Escape game using Pygame 
